@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sania.
-- 👀 I’m interested in behavioural data science, data journalism, web design and web development.
-- 🌱 I’m currently learning Python for data analysis and playing around with various Python libraries to create pretty visualisations.
+- 👀 I’m interested in behavioural science, data journalism and web development.
+- 🌱 Currently learning Python for data analysis and app development.
 - 📫 You can find me on Twitter with my @sania2046 handle.
 
 <!---

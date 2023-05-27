@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sania.
 - 👀 I’m interested in behavioural science, data journalism and web development.
-- 🌱 Currently learning Python for data analysis and app development.
+- 🌱 I like building web apps and data visualisations in Python.
+- 🎮 My all-time favourite RPG is Divinity: Original Sin II
 - 📫 You can find me on Twitter with my @sania2046 handle.
 
 <!---

@@ -11,6 +11,7 @@ I'm a startup operator and Operations consultant helping teams work smarter with
 
 
 🤓 Random facts
+
 My all-time favourite RPG is Divinity: Original Sin II.
 My first programming language was Pascal, via Turbo Pascal (back in 1999). My second language was SQL (in uni). 
 
